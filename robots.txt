@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://yourgrandpa88.github.io/yg88/sitemap.xml
